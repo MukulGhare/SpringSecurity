@@ -11,7 +11,6 @@ This repository demonstrates how to secure a Spring Boot REST API using Spring S
 * User registration and login
 * JWT creation on successful authentication
 * Stateless request authentication using the JWT passed in the `Authorization: Bearer <token>` header
-* Role-based authorization (example: `ROLE_USER`, `ROLE_ADMIN`)
 * Token expiration and validation
 
 
